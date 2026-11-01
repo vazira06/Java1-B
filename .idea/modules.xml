@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java1-B.iml" filepath="$PROJECT_DIR$/Java1-B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exem1/exem1.iml" filepath="$PROJECT_DIR$/exem1/exem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exem1/sample01/sample01.iml" filepath="$PROJECT_DIR$/exem1/sample01/sample01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/sample02-1/sample02-1.iml" filepath="$PROJECT_DIR$/week02/sample02-1/sample02-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/sample02-2/sample02-2.iml" filepath="$PROJECT_DIR$/week02/sample02-2/sample02-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/sample02-3/sample02-3.iml" filepath="$PROJECT_DIR$/week02/sample02-3/sample02-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/sample02-4/sample02-4.iml" filepath="$PROJECT_DIR$/week02/sample02-4/sample02-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/sample02-5/sample02-5.iml" filepath="$PROJECT_DIR$/week02/sample02-5/sample02-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/sample02-6/sample02-6.iml" filepath="$PROJECT_DIR$/week02/sample02-6/sample02-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/sample02-7/sample02-7.iml" filepath="$PROJECT_DIR$/week02/sample02-7/sample02-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/sample02-8/sample02-8.iml" filepath="$PROJECT_DIR$/week02/sample02-8/sample02-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/sample03-1/sample03-1.iml" filepath="$PROJECT_DIR$/week03/sample03-1/sample03-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/sample03-2/sample03-2.iml" filepath="$PROJECT_DIR$/week03/sample03-2/sample03-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/sample03-3/sample03-3.iml" filepath="$PROJECT_DIR$/week03/sample03-3/sample03-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/sample03-4/sample03-4.iml" filepath="$PROJECT_DIR$/week03/sample03-4/sample03-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/sample03-5/sample03-5.iml" filepath="$PROJECT_DIR$/week03/sample03-5/sample03-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/sample03-6/sample03-6.iml" filepath="$PROJECT_DIR$/week03/sample03-6/sample03-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/sample04-1/sample04-1.iml" filepath="$PROJECT_DIR$/week04/sample04-1/sample04-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/sample04-2/sample04-2.iml" filepath="$PROJECT_DIR$/week04/sample04-2/sample04-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/sample04-3/sample04-3.iml" filepath="$PROJECT_DIR$/week04/sample04-3/sample04-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/sample04-4/sample04-4.iml" filepath="$PROJECT_DIR$/week04/sample04-4/sample04-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/sample04-5/sample04-5.iml" filepath="$PROJECT_DIR$/week04/sample04-5/sample04-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week05/sample05-1/sample05-1.iml" filepath="$PROJECT_DIR$/week05/sample05-1/sample05-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week05/sample05-2/sample05-2.iml" filepath="$PROJECT_DIR$/week05/sample05-2/sample05-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week05/sample05-3/sample05-3.iml" filepath="$PROJECT_DIR$/week05/sample05-3/sample05-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week06/sample06-1/sample06-1.iml" filepath="$PROJECT_DIR$/week06/sample06-1/sample06-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week06/sample06-2/sample06-2.iml" filepath="$PROJECT_DIR$/week06/sample06-2/sample06-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week06/sample06-3/sample06-3.iml" filepath="$PROJECT_DIR$/week06/sample06-3/sample06-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week06/sample06-4/sample06-4.iml" filepath="$PROJECT_DIR$/week06/sample06-4/sample06-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week06/sample06-5/sample06-5.iml" filepath="$PROJECT_DIR$/week06/sample06-5/sample06-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week07/sample07-1/sample07-1.iml" filepath="$PROJECT_DIR$/week07/sample07-1/sample07-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week07/sample07-2/sample07-2.iml" filepath="$PROJECT_DIR$/week07/sample07-2/sample07-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week07/sample07-3/sample07-3.iml" filepath="$PROJECT_DIR$/week07/sample07-3/sample07-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week07/sample07-4/sample07-4.iml" filepath="$PROJECT_DIR$/week07/sample07-4/sample07-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week07/sample07-5/sample07-5.iml" filepath="$PROJECT_DIR$/week07/sample07-5/sample07-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week07/sample07-6/sample07-6.iml" filepath="$PROJECT_DIR$/week07/sample07-6/sample07-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exem1/sample2/sample2.iml" filepath="$PROJECT_DIR$/exem1/sample2/sample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exem1/sample3/sample3.iml" filepath="$PROJECT_DIR$/exem1/sample3/sample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/week02.iml" filepath="$PROJECT_DIR$/week02/week02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/week03.iml" filepath="$PROJECT_DIR$/week03/week03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/week04.iml" filepath="$PROJECT_DIR$/week04/week04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week05/week05.iml" filepath="$PROJECT_DIR$/week05/week05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week06/week06.iml" filepath="$PROJECT_DIR$/week06/week06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week07/week07.iml" filepath="$PROJECT_DIR$/week07/week07.iml" />
+    </modules>
+  </component>
+</project>
