@@ -12,3 +12,9 @@ void main() {
     System.out.printf("사람은 평균 분당 %d회 심장이 박동한다.\n", HEART);
     System.out.printf("심장은 %d년 동안 %d회 박동한다.\n", age, count);
 }
+
+
+
+
+
+
